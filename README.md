@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Corepack AI" width="200"/>
+  <img src="./assets/banner.png" alt="Corepack AI - The NPM for AI Context" width="100%"/>
 </p>
 
 # The Unified Context Protocol: A File-System Standard for Installable Intelligence
