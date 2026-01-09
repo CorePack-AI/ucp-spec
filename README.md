@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="Corepack AI" width="200"/>
+</p>
+
 # The Unified Context Protocol: A File-System Standard for Installable Intelligence
 
-**Authors:** Corepack AI Research  
+**Author:** Nikhil Rao, Founder — Corepack AI  
 **Date:** January 2026  
-**Version:** 1.0 (Draft)
+**Version:** 1.0
 
 ---
 
@@ -143,5 +147,17 @@ We are not just building a tool; we are targeting an **Economy**. By standardizi
 
 
 ---
-**Corepack AI**  
+
+## Author
+
+**Nikhil Rao** — Founder, Corepack AI
+
+Building tools that bridge human intent and autonomous execution.
+
+- 🌐 [corepackai.com](https://corepackai.com)
+- 🐦 [@breeze_nik](https://x.com/breeze_nik)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-rao-ai-agent-dev/)
+
+---
+
 *Don't just prompt. Publish.*
